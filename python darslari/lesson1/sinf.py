@@ -17,3 +17,6 @@
 #print(7//6)#
 #print(3**6)#
 #print(13%3)#
+
+print("hello World")
+print("Goodby World")
